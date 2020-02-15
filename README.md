@@ -2,6 +2,12 @@
 
 Spacemacs Theme for Gitea
 
+**Features**
+
+* Spacemacs Theme
+* Rounded Tabs
+* Removed outlines from many places
+
 ## Screenshots
 
 ![Admin Dashboard](Screenshots/AdminDashboard.png)
